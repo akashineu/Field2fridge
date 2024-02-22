@@ -6,4 +6,9 @@
     <string name="bridge_the_gap_between_small_marts_and_farmers">Bridge the gap between small marts and farmers</string>
     <string name="enter_otp">Enter OTP</string>
     <string name="submit">Submit</string>
+    <string name="add">ADD</string>
+    <string name="price">Rs 33/Kg</string>
+    <string name="minamount">1 Kg</string>
+    <string name="imagediscription">Fruit image</string>
+    <string name="name">Chinise Cabbage  - Deep Rooted</string>
 </resources>
