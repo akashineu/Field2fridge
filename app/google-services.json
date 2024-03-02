@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "265586549320",
-    "project_id": "field2fridge",
-    "storage_bucket": "field2fridge.appspot.com"
+    "project_number": "10917664110",
+    "project_id": "harvesthub-d3d53",
+    "storage_bucket": "harvesthub-d3d53.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:265586549320:android:bb480f3e319f9a4c0eee7d",
+        "mobilesdk_app_id": "1:10917664110:android:4c8843fd0ce7e965791d7f",
         "android_client_info": {
           "package_name": "com.akash.field2fridge"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyChRkEAHS-o0D70iRY2jl9ZY3EQk-6YZxw"
+          "current_key": "AIzaSyBP26W9gb4cvk218g3of8y6F86AQ3U-vPM"
         }
       ],
       "services": {
